@@ -5,7 +5,7 @@ npm: '@comark/nuxt'
 icon: comark.svg
 github: https://github.com/comarkdown/comark
 website: https://comark.dev/
-learn_more: https://comark.dev/rendering/nuxt
+learn_more: https://comark.dev/rendering/vue
 category: Libraries
 type: 3rd-party
 maintainers:
